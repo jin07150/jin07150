@@ -10,3 +10,8 @@
 jin07150/jin07150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+# contributer jin720715 changes
+- I try to add comment for the project
+- Need to set up coding style ^^
